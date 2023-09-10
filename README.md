@@ -16,9 +16,15 @@ Una ruta señala la localización exacta de un archivo o directorio (carpeta) me
 
 ![image](https://github.com/mateo-L1913/generador_de_carpetas/assets/74875635/41cd82c8-9d18-4d5e-b94b-d4228ac1dd87)
 
-#### el boton "seleccionar ruta" 
+#### El boton "seleccionar ruta" 
 
 ![image](https://github.com/mateo-L1913/generador_de_carpetas/assets/74875635/4e9c7cdb-2c91-4990-8902-e3bb8caf1013)
+
+Sirve para abrir el explorador de archivos y buscar la ubicacion donde se quiera crear la carpeta o carpetas  
+
+#### introducir nombre a las carpetas que se quieren crear
+
+![image](https://github.com/mateo-L1913/generador_de_carpetas/assets/74875635/b631138a-3b13-44e6-840e-d71749825fe4)
 
 
 
