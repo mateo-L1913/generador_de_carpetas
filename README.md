@@ -1,4 +1,4 @@
-# generador_de_carpetas
+# generador de carpetas
 
 App para crear muchas carpetas en una ruta especifica
 
